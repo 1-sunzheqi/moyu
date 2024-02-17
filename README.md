@@ -1,1 +1,1 @@
-# skyblock3
+# STHY服务器
